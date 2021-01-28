@@ -10,30 +10,32 @@ redirect_from:
 
 I am a 2nd year PhD Student in the [Human-Centered Autonomy Lab](https://publish.illinois.edu/humancenteredautonomy/) majoring in [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) advised by [Prof. Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
 
-#### Research Interests
+### Research Interests
 
 * Human behavior modeling
 * Perception
 * Human-Robot interaction
 * Learning & AI
-* The intersection of Signal Processing and Machine Learning
+* Signal Processing $\bigcap$ Machine Learning
 
-#### News
+### News
 
-- ** December 2020 **: Second author [paper](https://ieeexplore.ieee.org/document/930933) accepted to IEEE-RAL.
+- **January 2021**: Appointed as Head TA for ECE 391 in Spring 2021.
 
-- ** December 2020 **: Humbled by another nomination for the Harold L. Olesen Undergraduate Teaching Award for ECE 391 in Fall 2020.
+- **December 2020**: Second author [paper](https://ieeexplore.ieee.org/document/930933) accepted to IEEE-RAL.
 
-- ** August 2020 **: Appointed as Head TA for ECE 391 in Fall 2020.
+- **December 2020**: Humbled by another nomination for the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Fall 2020.
 
-- ** June 2020 **: On the “List of Teachers Ranked as Excellent by their Students” for ECE 391 in Spring 2020. 
+- **August 2020**: Appointed as Head TA for ECE 391 in Fall 2020.
 
-- ** June 2020 **: Joined the Human-Centered Autonomy Lab and advised by working with Prof. Katie Driggs-Campbell.
+- **June 2020**: On the “List of Teachers Ranked as Excellent by their Students” for ECE 391 in Spring 2020. 
 
-- ** March 2020 **: On the “List of Teachers Ranked as Excellent by their Students” for ECE 391 in Fall 2019. 
+- **June 2020**: Joined the Human-Centered Autonomy Lab and advised by Prof. Katie Driggs-Campbell.
 
-- ** December 2019 **: Received the Harold L. Olesen Undergraduate Teaching Award for ECE 391 in Fall 2019.
+- **March 2020**: On the “List of Teachers Ranked as Excellent by their Students” for ECE 391 in Fall 2019. 
 
-- ** August 2019 **: Started graduate school at the University of Illinois at Urbana-Champaign.
+- **December 2019**: Received the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Fall 2019.
 
-- ** May 2019 **: Graduated with a Bachelor of Science degree in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
+- **August 2019**: Started graduate school at the University of Illinois at Urbana-Champaign.
+
+- **May 2019**: Graduated with a Bachelor of Science degree in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
