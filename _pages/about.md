@@ -38,4 +38,4 @@ I am a 2nd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 - **August 2019**: Started graduate school at the University of Illinois at Urbana-Champaign.
 
-- **May 2019**: Graduated with a Bachelor of Science degree in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
+- **May 2019**: Graduated with a Bachelor of Science in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
