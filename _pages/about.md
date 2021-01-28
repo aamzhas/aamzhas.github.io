@@ -10,6 +10,8 @@ redirect_from:
 
 I am a 2nd year PhD Student in the [Human-Centered Autonomy Lab](https://publish.illinois.edu/humancenteredautonomy/) majoring in [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) advised by [Prof. Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
 
+---
+
 ## Research Interests
 
 * Human behavior modeling
@@ -17,6 +19,8 @@ I am a 2nd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 * Human-Robot interaction
 * Learning & AI
 * Signal Processing $\bigcap$ Machine Learning
+
+---
 
 ## News
 
