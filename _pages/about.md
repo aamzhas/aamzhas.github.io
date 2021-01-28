@@ -36,6 +36,6 @@ I am a 2nd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 - **December 2019**: Received the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Fall 2019.
 
-- **August 2019**: Started graduate school at the University of Illinois at Urbana-Champaign.
+- **August 2019**: Began Pursuing a Doctorate in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign.
 
-- **May 2019**: Graduated with a Bachelor of Science in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
+- **May 2019**: Graduated as a Bachelor of Science in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
