@@ -1,0 +1,13 @@
+---
+title: "Teaching Assistant for ECE 498SM - Principles of Safe Autonomy"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2-ta-ece498sm
+venue: "University of Illinois at Urbana-Champaign, Electrical and Computer Engineering"
+date: 2020-08-04
+location: "Champaign, USA"
+---
+
+Developed two machines problems(MP) for the course over the summer:
+* An introductory MP to working with simulations, safety, control and perception
+* A final MP that includes all previous MPs worked on including localization, perception, and safety

@@ -1,0 +1,11 @@
+---
+title: "Undergraduate Course Assistant for ECE 422/CS 461 - Introduction to Computer Security"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/5-ua-ece422
+venue: "University of Illinois at Urbana-Champaign, Electrical and Computer Engineering"
+date: 2019-05-12
+location: "Champaign, USA"
+---
+
+Helped hold office hours, and grade and write multiple choice exams questions
