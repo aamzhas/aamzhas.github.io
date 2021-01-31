@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aamir Hasan"
   avatar           : "profile.png"
-  bio              : "PhD Student, Cook, Teacher, and most recently a coffee enthusiast "
+  bio              : "PhD Student, Culinary enthusiast, Consumer of entertainment, Teacher, and most recently a coffee enthusiast"
   location         : "Champaign, Illinois"
   employer         :
   pubmed           :
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
   # _projects
   - scope:
       path: ""
@@ -263,7 +263,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
