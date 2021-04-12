@@ -26,7 +26,7 @@ I am a 2nd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 - **January 2021**: Appointed as Head TA for ECE 391 in Spring 2021.
 
-- **December 2020**: Second author [paper](https://ieeexplore.ieee.org/document/930933) accepted to IEEE-RAL.
+- **December 2020**: Second author [paper](https://ieeexplore.ieee.org/document/9309334) accepted to IEEE-RAL.
 
 - **December 2020**: Humbled by another nomination for the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Fall 2020.
 
