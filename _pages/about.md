@@ -24,7 +24,7 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ## News
 
-- **May 2021**: Began my Internship at Google LLC. I am working on experimenting with Pre-training the Multi-model BERT model on unlabelled data to improve the models performance in extracting business titles from storefront images.
+- **May 2021**: Began my Internship at Google LLC. I am working on experimenting with Pre-training the Multi-modal BERT model on unlabelled data to improve performance in extracting business titles from storefront images.
 
 - **April 2021**: Humbled by another nomination for the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Spring 2021.
 
