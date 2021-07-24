@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Aamir Hasan"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Aamir Hasan"
 description              : &description "PhD Student"
 url                      : https://aamzhas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
