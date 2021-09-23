@@ -24,7 +24,7 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ## News
 
-- **August 2021**: Completed my internship at Google LLC. Special thanks to Shashank Shastry and Benjamin Louie.
+- **August 2021**: Completed my internship at Google LLC. Special thanks to Shashank Shastry and Benjamin Louie for hosting me at Google!
 
 - **May 2021**: Began my internship at Google LLC. I am working on experimenting with Pre-training the Multi-modal BERT model on unlabelled data to improve performance in extracting business titles from storefront images.
 
