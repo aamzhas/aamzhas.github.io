@@ -10,6 +10,7 @@ environments.
 
 ## Technologies used
 * Gazebo
+* Python
 
 ## Current Status:
 Ongoing
