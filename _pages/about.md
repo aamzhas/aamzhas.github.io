@@ -24,6 +24,10 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ## News
 
+# - **May 2022**: Returned to Google LLC for another internship. I am working on ..
+
+- **December 2021**: Received an Honorable Mention at the inaugural [Stretch Robot Pitch Competition](https://techsage.gatech.edu/stretch-robot-pitch-competition).
+
 - **August 2021**: Completed my internship at Google LLC. Special thanks to Shashank Shastry and Benjamin Louie for hosting me at Google!
 
 - **May 2021**: Began my internship at Google LLC. I am working on experimenting with Pre-training the Multi-modal BERT model on unlabelled data to improve performance in extracting business titles from storefront images.
@@ -46,6 +50,6 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 - **December 2019**: Received the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Fall 2019.
 
-- **August 2019**: Began Pursuing a Doctorate in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign.
+- **August 2019**: Began pursuing a Doctorate in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign.
 
 - **May 2019**: Graduated as a Bachelor of Science in Computer Engineering from the University of Illinois at Urbana-Champaign with High Honors.
