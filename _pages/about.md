@@ -24,7 +24,7 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ## News
 
-# - **May 2022**: Returned to Google LLC for another internship. I am working on ..
+[//]: # (- **May 2022**: Returned to Google LLC for another internship. I am working on .. )
 
 - **December 2021**: Received an Honorable Mention at the inaugural [Stretch Robot Pitch Competition](https://techsage.gatech.edu/stretch-robot-pitch-competition).
 
