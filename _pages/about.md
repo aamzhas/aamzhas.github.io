@@ -26,6 +26,8 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 [//]: # (- **May 2022**: Returned to Google LLC for another internship. I am working on .. )
 
+- **January 2022**: [Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction]() accepted to ICRA 2022.
+
 - **December 2021**: Received an Honorable Mention at the inaugural [Stretch Robot Pitch Competition](https://techsage.gatech.edu/stretch-robot-pitch-competition).
 
 - **August 2021**: Completed my internship at Google LLC. Special thanks to Shashank Shastry and Benjamin Louie for hosting me at Google!
@@ -36,7 +38,7 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 - **January 2021**: Appointed as Head TA for ECE 391 in Spring 2021.
 
-- **December 2020**: Second author [paper](https://ieeexplore.ieee.org/document/9309334) accepted to IEEE-RAL.
+- **December 2020**: [Long-Term Pedestrian Trajectory Prediction Using Mutable Intention Filter and Warp LSTM](https://ieeexplore.ieee.org/document/9309334) accepted to IEEE-RAL.
 
 - **December 2020**: Humbled by another nomination for the "Harold L. Olesen Undergraduate Teaching Award" for ECE 391 in Fall 2020.
 
