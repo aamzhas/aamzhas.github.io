@@ -7,7 +7,7 @@ permalink: /projects/2021-mesrnn
 
 Analyzing meta-path based features on spatio-temporal graphs combined with a structural RNN structure to predict agent trajectories in autonomous scenes. The proposed model demonstrated the usefulness of these features and achieved a performance boost of at least 32% over all baselines.
 
-[Project Website]()
+[Project Website](https://sites.google.com/illinois.edu/mesrnn/home)
 
 ## Technologies used
 * Python

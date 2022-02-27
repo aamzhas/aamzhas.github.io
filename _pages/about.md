@@ -26,7 +26,7 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 [//]: # (- **May 2022**: Returned to Google LLC for another internship. I am working on .. )
 
-- **January 2022**: [Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction]() accepted to ICRA 2022.
+- **January 2022**: [Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction](https://sites.google.com/illinois.edu/mesrnn/home) accepted to ICRA 2022.
 
 - **December 2021**: Received an Honorable Mention at the inaugural [Stretch Robot Pitch Competition](https://techsage.gatech.edu/stretch-robot-pitch-competition).
 
