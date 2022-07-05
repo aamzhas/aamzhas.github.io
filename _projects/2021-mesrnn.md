@@ -10,9 +10,10 @@ Analyzing meta-path based features on spatio-temporal graphs combined with a str
 [Project Website](https://sites.google.com/illinois.edu/mesrnn/home)
 
 ## Technologies used
+
 * Python
 * PyTorch
 
-## Current Status:
+## Current Status
+
 Completed. Published at ICRA 2022.
- 
