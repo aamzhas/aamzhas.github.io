@@ -25,7 +25,7 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 ## News
 
 * **May 2022**: Presented [MESRNN](https://sites.google.com/illinois.edu/mesrnn/home) at ICRA 2022.
-Also presented [Towards Co-operative Congestion Mitagation](https://drive.google.com/file/d/13wpvYcykGUOH2lC5FTahQVyxpTVA1U6n/view) at the [`Shared Autonomy in Physical Human-Robot Interaction: Adaptability and Trust`](https://sites.google.com/view/saphri-icra2022/home) workshop and `Designing a Wayfinding Robot for People with Visual Impairments` at the [Intelligent Control Methods and Machine Learning Algorithms for Human-Robot Interaction and Assistive Robotics](https://sites.google.com/ualberta.ca/2022workshop-ai-for-hri-cr-ar) workshop.
+Also presented [Towards Co-operative Congestion Mitagation](https://drive.google.com/file/d/13wpvYcykGUOH2lC5FTahQVyxpTVA1U6n/view) at the [Shared Autonomy in Physical Human-Robot Interaction: Adaptability and Trust](https://sites.google.com/view/saphri-icra2022/home) workshop and 'Designing a Wayfinding Robot for People with Visual Impairments' at the [Intelligent Control Methods and Machine Learning Algorithms for Human-Robot Interaction and Assistive Robotics](https://sites.google.com/ualberta.ca/2022workshop-ai-for-hri-cr-ar) workshop.
 
 * **May 2022**: Returned to Google LLC for another internship. I am working on
 Advertiser Business Summarization.
