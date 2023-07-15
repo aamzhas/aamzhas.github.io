@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish.illinois.edu/humancenteredautonomy/) majoring in [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) advised by [Prof. Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
+I am a 4th year PhD Student in the [Human-Centered Autonomy Lab](https://publish.illinois.edu/humancenteredautonomy/) majoring in [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu) advised by [Prof. Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
 
 ---
 
@@ -23,6 +23,14 @@ I am a 3rd year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 ---
 
 ## News
+
+* **July 2023**: [PeRP: Personalized Residual Policies For Congestion Mitigation Through Co-operative Advisory Systems](https://sites.google.com/illinois.edu/perp) accepted to ITSC 2023.
+
+* **May 2023**: Visited the Centre of Intelligent Robotics at the Indian Institute of Information Technology, Allahabad and gave my talk: "Towards Systems for Adaptive Modes of Communication between Drivers and their Advanced Driver Assistance Systems". Special thanks to Dr. Rahul Kala and Syed Mohammed Haider Ali and everyone at IIIT-A!
+
+* **February 2023**: Was a student speaker at The CSL Student Conference 2023 for the [Robotics Session](https://studentconference.csl.illinois.edu/robotics-session/)! I spoke about my work "Towards Systems for Adaptive Modes of Communication between Drivers and their Advanced Driver Assistance Systems".
+
+* **August 2022**: Completed my second internship at Google. Special thanks to Ellie Zhou and Spencer Luo for hosting me at Google!
 
 * **May 2022**: Presented [MESRNN](https://sites.google.com/illinois.edu/mesrnn/home) at ICRA 2022.
 Also presented [Towards Co-operative Congestion Mitagation](https://drive.google.com/file/d/13wpvYcykGUOH2lC5FTahQVyxpTVA1U6n/view) at the [Shared Autonomy in Physical Human-Robot Interaction: Adaptability and Trust](https://sites.google.com/view/saphri-icra2022/home) workshop and 'Designing a Wayfinding Robot for People with Visual Impairments' at the [Intelligent Control Methods and Machine Learning Algorithms for Human-Robot Interaction and Assistive Robotics](https://sites.google.com/ualberta.ca/2022workshop-ai-for-hri-cr-ar) workshop.

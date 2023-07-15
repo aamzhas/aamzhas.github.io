@@ -8,10 +8,16 @@ permalink: /projects/2021-wayfinding
 Building a robot way-finding assistant to aid visually impaired persons in navigating new indoor
 environments.
 
+## Publications
+
+* [Designing a Wayfinding Robot for People with Visual Impairments](https://arxiv.org/abs/2302.09144)
+* [DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding](https://sites.google.com/illinois.edu/dragon-wayfinding)
+
 ## Technologies used
 
-* Gazebo
+* ROS
 * Python
+* PyTorch
 
 ## Current Status
 

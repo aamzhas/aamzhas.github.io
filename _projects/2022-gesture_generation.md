@@ -10,6 +10,7 @@ On the quest to find a diverse set of (possible new) gestures for in-car gesture
 ## Technologies used
 
 * Python
+* PyTorch
 
 ## Current Status
 
