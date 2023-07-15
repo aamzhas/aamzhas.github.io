@@ -11,7 +11,7 @@ environments.
 ## Publications
 
 * [Designing a Wayfinding Robot for People with Visual Impairments](https://arxiv.org/abs/2302.09144)
-* [DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding](https://sites.google.com/illinois.edu/dragon-wayfinding)
+* [DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding](https://sites.google.com/view/dragon-wayfinding)
 
 ## Technologies used
 

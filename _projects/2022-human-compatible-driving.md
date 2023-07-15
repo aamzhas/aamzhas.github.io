@@ -10,7 +10,7 @@ Developing policies that provide instructions to drivers in an aim to reduce tra
 ## Publications
 
 * [Towards Co-operative Congestion Mitigation](https://arxiv.org/abs/2302.09140)
-* [PeRP: Personalized Residual Policies For Congestion Mitigation Through Co-operative Advisory System](https://sites.google.com/illinois.edu/perp)
+* [PeRP: Personalized Residual Policies For Congestion Mitigation Through Co-operative Advisory System](https://sites.google.com/view/perp)
 
 ## Technologies used
 
