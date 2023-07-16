@@ -10,6 +10,7 @@ environments.
 
 ## Publications
 
+* [An Interdisciplinary Approach: Potential for Robotic Support to Address Wayfinding Barriers Among Persons with Visual Impairments](https://journals.sagepub.com/doi/pdf/10.1177/1071181322661384)
 * [Designing a Wayfinding Robot for People with Visual Impairments](https://arxiv.org/abs/2302.09144)
 * [DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding](https://sites.google.com/view/dragon-wayfinding)
 
