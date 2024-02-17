@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD Student in the [Human-Centered Autonomy Lab](https://publish.illinois.edu/humancenteredautonomy/) majoring in [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu) advised by [Prof. Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
+I am a 5th year PhD Student in the [Human-Centered Autonomy Lab](https://publish.illinois.edu/humancenteredautonomy/) majoring in [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu) advised by [Prof. Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
 
 ---
 
@@ -22,7 +22,19 @@ I am a 4th year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ---
 
-## News
+## Updates
+
+* **February 2024**: I was a student speaker at The 19th Annual CSL Student Conference 2024 for the [Robotics Session](https://studentconference.csl.illinois.edu/robotics-session/)! I spoke about my work "Co-operative Advisory Residual Policies for Congestion Mitigation". I am honored to have won the Best Presentation Award.
+
+* **February 2024**: Our work on an assistive navigation system for People with Visual Impairments, [DRAGON](https://sites.google.com/view/dragon-wayfinding/home), was published in the Robotics and Automation Letters.
+
+* **January 2024**: Presented [Beyond the Dashboard: Investigating Driver Preferences Under Distraction for Communication with ADAS](https://sites.google.com/illinois.edu/driver-preference-for-modes) at the [TRB Annual Meeting 2024](https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) in Washington DC!
+
+* **December 2023**: I passed my preliminary examination for my PhD! Special thanks to my Committee: [Asst. Prof. Katie Driggs-Campbell](https://krdc.web.illinois.edu), [Prof. Karrie Karahalios](http://www.karriekarahalios.com), [Assoc. Prof. Lav Varshney](http://www.varshney.csl.illinois.edu), [Asst. Prof. Roy Dong](https://roydong.web.illinois.edu).
+
+* **October 2023**: [Beyond the Dashboard: Investigating Driver Preferences Under Distraction for Communication with ADAS](https://sites.google.com/illinois.edu/driver-preference-for-modes) accepted for the [TRB Annual Meeting 2024](https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) in Washington DC!
+
+* **September 2023**: Presented [PeRP](https://sites.google.com/illinois.edu/perp) at ITSC in Bilbao, Spain. Also got to interact with and meet a lot of wonderful researchers in the Transportation community.
 
 * **July 2023**: [PeRP: Personalized Residual Policies For Congestion Mitigation Through Co-operative Advisory Systems](https://sites.google.com/illinois.edu/perp) accepted to ITSC 2023.
 
