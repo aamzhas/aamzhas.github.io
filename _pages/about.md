@@ -24,7 +24,7 @@ I am a 5th year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ## Updates
 
-* **August 2024**: Completed my internship at Meta. I worked on User Intent modeling for FB stories. My work spanned from curating new features for existing models to improving current models and building the end-to-end (data pipelines to training and evaluating models). Special thanks to Dr. Shafiul Azam Chowdhury, Dr. Shalmoli Gupta, Dr. Reza Chowdhury, and Nikhil Pathak for their help and guidance throughout the internship. This summer working at Meta has been filled with learning experiences and formed me into a better engineer!
+* **August 2024**: Completed my internship at Meta. I worked on User Intent modeling for FB stories. My work spanned from curating new features for existing models to improving current models and building the end-to-end framework (data pipelines to training and evaluating models) for intent modeling using a variety of affinity indicators. Special thanks to Dr. Shafiul Azam Chowdhury, Dr. Shalmoli Gupta, Dr. Reza Chowdhury, and Nikhil Pathak for their help and guidance throughout the internship. This summer working at Meta has been filled with learning experiences and formed me into a better engineer!
 
 * **May 2024**: Began my internship at Meta. I am working on Rankings Stories for Facebook.
 
