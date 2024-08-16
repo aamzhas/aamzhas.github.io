@@ -24,6 +24,8 @@ I am a 5th year PhD Student in the [Human-Centered Autonomy Lab](https://publish
 
 ## Updates
 
+* **August 2024**: Completed my internship at Meta. I worked on User Intent modeling for FB stories. My work spanned from curating new features for existing models to improving current models and building the end-to-end (data pipelines to training and evaluating models). Special thanks to Dr. Shafiul Azam Chowdhury, Dr. Shalmoli Gupta, Dr. Reza Chowdhury, and Nikhil Pathak for their help and guidance throughout the internship. This summer working at Meta has been filled with learning experiences and formed me into a better engineer!
+
 * **May 2024**: Began my internship at Meta. I am working on Rankings Stories for Facebook.
 
 * **February 2024**: I was a student speaker at The 19th Annual CSL Student Conference 2024 for the [Robotics Session](https://studentconference.csl.illinois.edu/robotics-session/)! I spoke about my work "Co-operative Advisory Residual Policies for Congestion Mitigation". I am honored to have won the Best Presentation Award.
